@@ -10,6 +10,7 @@ xinggevip 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://solo.qiangssvip.com/solo-v3.6.5/my-github-repos)
 * [java部署坑真TM的多](http://solo.qiangssvip.com/solo-v3.6.5/articles/2019/10/21/1571648177133.html)
 * [世界，你好！](http://solo.qiangssvip.com/solo-v3.6.5/hello-solo)
 
